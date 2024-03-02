@@ -4,13 +4,16 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Digite sua idade em dias");
-        int idadeEmDias = int.Parse(Console.ReadLine());
-
-        int anos = idadeEmDias / 365;
-        bool maiorDeIdade = anos >= 18;
-
-        Console.WriteLine("Essa pessoa é maior de idade? " + maiorDeIdade);
+        Console.WriteLine("Insira a primeira nota do aluno");
+        Double Nota1 = double.Parse(Console.ReadLine());
+        Console.WriteLine("Insira a segunda nota");
+        double Nota2 = double.Parse(Console.ReadLine());
+        Console.WriteLine("Insira a terceira nota");
+        double Nota3 = double.Parse(Console.ReadLine());
+        Console.WriteLine("Insira a quarta nota");
+        double Nota4 = double.Parse(Console.ReadLine());
+        double Media = ((Nota1 + Nota2 + Nota3 + Nota4) / 4);
+        Console.WriteLine("A media do aluno eh: " + Media);
         
     }
 }
