@@ -18,26 +18,23 @@ class Program
         double Nota4 = double.Parse(Console.ReadLine());
 
         double Media = ((Nota1 + Nota2 + Nota3 + Nota4) / 4);
-    
+        Console.WriteLine("A media eh: " + Media);    
 
         bool Aprovado = (Media >= 5);
         bool Recuperacao = (Media < 5) && (Media >= 3);
 
-            if (Aprovado == true)
-            {
-                Console.WriteLine("Aluno aprovado");
-             }
-                else
-                {
-                    if (Recuperacao == true)
-                    {
-                        Console.WriteLine("Aluno em recuperacao");
-                    }
-                    else
-                    {
-                        Console.WriteLine("Aluno reprovado");   
-                    }
-                 }
-
+        if (Aprovado == true)
+        {
+            Console.WriteLine("Aluno aprovado");
+        }
+        else if (Recuperacao == true)
+        {
+            Console.WriteLine("Aluno em recuperacao");
+        }        
+        else
+        {
+            Console.WriteLine("Aluno reprovado");   
+        }
+                 
     }
 }
