@@ -7,17 +7,19 @@ class Program
         const string NOME_DE_USUARIO = "admin";
         const string SENHA = "123senha";
         const int MAXIMO_TENTATIVAS = 3;
-
+        string UsuarioDigitado;
+        string SenhaDigitada;
+        
 
         int contadorTentativas = 1;
 
         do
         {
             Console.WriteLine("\nDigite seu nome de usuário");
-            string UsuarioDigitado = Console.ReadLine();
+            UsuarioDigitado = Console.ReadLine();
 
             Console.WriteLine("\nDigite sua senha");
-            string SenhaDigitada = Console.ReadLine();
+            SenhaDigitada = Console.ReadLine();
 
             contadorTentativas ++;
 
@@ -29,7 +31,7 @@ class Program
         }
         while (contadorTentativas <= MAXIMO_TENTATIVAS);
 
-            if (contadorTentativas > MAXIMO_TENTATIVAS)
+            if ((UsuarioDigitado != NOME_DE_USUARIO) && (SenhaDigitada != SENHA) && (contadorTentativas >= MAXIMO_TENTATIVAS))
             {
                 Console.WriteLine("Sua conta foi bloqueada");
             }
