@@ -6,7 +6,7 @@ class Program
     {
         int contadorMaior = 1;
 
-        while (contadorMaior <10)
+        while (contadorMaior <11)
         {
             for (int contador = 1; contador <= 10; contador ++)
             {
