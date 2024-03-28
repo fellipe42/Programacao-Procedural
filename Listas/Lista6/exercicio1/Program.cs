@@ -7,7 +7,6 @@ class Program
         string[] nomes = new string[10];
         int numeroDeNomes = 10;
         string nome;
-        int contador;
 
         System.Console.WriteLine($"Insira {numeroDeNomes} nomes: ");
 
@@ -19,7 +18,7 @@ class Program
         System.Console.WriteLine("Insira o nome que deseja buscar na lista: ");
         nome = Console.ReadLine();
 
-        for (contador = 0; contador < numeroDeNomes; contador++)
+        for (int contador = 0; contador < numeroDeNomes; contador++)
         {
             if (nomes[contador] == nome)
             {
