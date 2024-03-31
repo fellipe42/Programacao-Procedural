@@ -1,0 +1,15 @@
+C:\Users\Lenovo I5\Desktop\Programacao-Procedural\Listas\Lista6\exercicio3\bin\Debug\net8.0\exercicio3.exe
+C:\Users\Lenovo I5\Desktop\Programacao-Procedural\Listas\Lista6\exercicio3\bin\Debug\net8.0\exercicio3.deps.json
+C:\Users\Lenovo I5\Desktop\Programacao-Procedural\Listas\Lista6\exercicio3\bin\Debug\net8.0\exercicio3.runtimeconfig.json
+C:\Users\Lenovo I5\Desktop\Programacao-Procedural\Listas\Lista6\exercicio3\bin\Debug\net8.0\exercicio3.dll
+C:\Users\Lenovo I5\Desktop\Programacao-Procedural\Listas\Lista6\exercicio3\bin\Debug\net8.0\exercicio3.pdb
+C:\Users\Lenovo I5\Desktop\Programacao-Procedural\Listas\Lista6\exercicio3\obj\Debug\net8.0\exercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo I5\Desktop\Programacao-Procedural\Listas\Lista6\exercicio3\obj\Debug\net8.0\exercicio3.AssemblyInfoInputs.cache
+C:\Users\Lenovo I5\Desktop\Programacao-Procedural\Listas\Lista6\exercicio3\obj\Debug\net8.0\exercicio3.AssemblyInfo.cs
+C:\Users\Lenovo I5\Desktop\Programacao-Procedural\Listas\Lista6\exercicio3\obj\Debug\net8.0\exercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo I5\Desktop\Programacao-Procedural\Listas\Lista6\exercicio3\obj\Debug\net8.0\exercicio3.sourcelink.json
+C:\Users\Lenovo I5\Desktop\Programacao-Procedural\Listas\Lista6\exercicio3\obj\Debug\net8.0\exercicio3.dll
+C:\Users\Lenovo I5\Desktop\Programacao-Procedural\Listas\Lista6\exercicio3\obj\Debug\net8.0\refint\exercicio3.dll
+C:\Users\Lenovo I5\Desktop\Programacao-Procedural\Listas\Lista6\exercicio3\obj\Debug\net8.0\exercicio3.pdb
+C:\Users\Lenovo I5\Desktop\Programacao-Procedural\Listas\Lista6\exercicio3\obj\Debug\net8.0\exercicio3.genruntimeconfig.cache
+C:\Users\Lenovo I5\Desktop\Programacao-Procedural\Listas\Lista6\exercicio3\obj\Debug\net8.0\ref\exercicio3.dll
