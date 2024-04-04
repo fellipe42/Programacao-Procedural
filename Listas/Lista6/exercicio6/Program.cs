@@ -84,7 +84,7 @@ class Program
                 {
                     for (int coluna = 0; coluna < TAMANHO_MATRIZ; coluna++)
                     {
-                        if (linha == 2 && coluna == 0 || linha == 2 && coluna == 2)
+                        if (linha == 1 && coluna == 0 || linha == 1 && coluna == 2)
                         {
                             somatorio = somatorio + matriz[linha, coluna];
                         }
